@@ -15,5 +15,5 @@ HW 5 - Template to reference when creating new data analytics projects using Pyt
 
 ## List of major changes that happened in the project
 
-- 2024-11-13 mwc Added new items
-- 2024-11-13 mwc Deleted items
+- 2024-11-13 eos Added new items
+- 2024-11-13 eos Deleted items
