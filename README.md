@@ -8,7 +8,7 @@
 
 <body>
 
-<span style='font-size:100px;'>&#129299;</span>
+<span style='font-size:100px;'>&#129299;</span><span style='font-size:100px;'>&#129312;</span>
 
 </body>
 </html>
