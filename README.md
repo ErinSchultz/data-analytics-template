@@ -1,6 +1,24 @@
 # data-analytics-template
 
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)
+![University of Iowa badge](https://img.shields.io/static/v1?message=Hawks!!&labelColor=000000&color=FFCD00&label=Go&style=for-the-badge)
+
+<html>
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+<body>
+
+<span style='font-size:100px;'>&#129299;</span>
+
+<p>I will display &#129299;</p>
+<p>I will display &#x1F913;</p>
+
+</body>
+</html>
 
 ## Description
 
