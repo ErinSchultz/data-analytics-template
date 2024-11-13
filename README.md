@@ -4,9 +4,9 @@ HW 5 - Template to reference when creating new data analytics projects using Pyt
 
 ## To-Do list
 
-[ ] item 1
-[ ] item 2
-[x] item 3
+[ ] item 1  
+[ ] item 2  
+[x] item 3  
 [ ] item 4
 
 ---
