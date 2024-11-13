@@ -1,5 +1,7 @@
 # data-analytics-template
 
+![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## Description
 
 HW 5 - Template to reference when creating new data analytics projects using Python notebooks.
