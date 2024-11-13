@@ -1,10 +1,20 @@
 # data-analytics-template
 
+## Description
+
 HW 5 - Template to reference when creating new data analytics projects using Python notebooks.
 
-# Description
+## Data sources
 
-# What did I learn
+List all the sources used in the project, including links to the original data, descirptions of the data, and any pre-processing steps that were taken.
+
+## Code structure
+
+Explain the code structure and how it is organized, including any significant files and their purposes.
+
+## What did I learn
+
+Describe the goal of the project and what you learned from it.
 
 ## To-Do list
 
